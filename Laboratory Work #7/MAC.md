@@ -17,16 +17,18 @@
 
 5- Створіть віртуальну таблицю, назва якої співпадає з назвою реальної таблиці та яка забезпечує SELECT-правила повноважного керування доступом для користувача.
 
-![6](https://user-images.githubusercontent.com/93474882/208584666-570e1102-88c7-44e2-a089-221a91cd5703.png)
-![7](https://user-images.githubusercontent.com/93474882/208584671-078d0705-93c7-4d9d-8b9f-a168c361044a.png)
+![5](https://user-images.githubusercontent.com/93474882/209401836-4ebe0f33-38dc-4866-ae65-eca8a64ea5cc.png)
+
 
 6- Створіть INSERT/UPDATE/DELETE-правила повноважного керування доступом для користувача.
 
-![8](https://user-images.githubusercontent.com/93474882/208587566-9521775c-5275-42fa-b3ab-6e0f9dd0cda3.png)
+![image](https://user-images.githubusercontent.com/93474882/209401730-79e959d7-9bbf-49af-a358-a0104476e418.png)
+
 
 7- Перевірте роботу механізму повноважного керування, виконавши операції SELECT, INSERT, UPDATE, DELETE
 
-![9](https://user-images.githubusercontent.com/93474882/208591181-78445a7c-53c3-4c23-b2e8-302bb95886c9.png)
+![image](https://user-images.githubusercontent.com/93474882/209401673-34a66da2-faa8-401a-863e-e5a46af92bbe.png)
+
 
 
 
